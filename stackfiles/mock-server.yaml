@@ -1,0 +1,5 @@
+type: app
+description: Um serviço para servir mocks definidos em arquivos
+template: mocko/mock-server
+inputs: {}
+plugins: []
