@@ -1,4 +1,4 @@
-name: Mock Server
+name: mock-server
 description: Um serviço para servir mocks definidos em arquivos
 types:
   - app-template
