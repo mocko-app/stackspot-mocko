@@ -1,0 +1,13 @@
+name: Mock Server
+description: Um serviço para servir mocks definidos em arquivos
+types:
+  - app-template
+inputs:
+  - label: Nome do Serviço
+    type: text
+    name: project_name
+    default: mock-server
+  - label: Porta a servir os mocks
+    type: text
+    name: port
+    default: 6625
