@@ -1,4 +1,3 @@
-# Stack Mocko
 Mocks http facilitados, crie mocks dinâmicos, proxie sua API e escolha quais recursos mockar.
 
 Esse stack vai te ajudar se você precisar de:
